@@ -22,15 +22,26 @@ h2,
 h3 {
   font-family: var(--secondary-font);
   color: var(--primary-color);
+  text-transform: uppercase;
 }
 
-.subheading-color {
+.sub-heading-color {
   color: var(--highlight-color);
+}
+
+.section {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 /* Navbar */
 #navbar {
   background-color: var(--primary-color);
+}
+
+/* Header */
+#header .lead {
+  font-family: var(--secondary-font);
 }
 
 #navbar .logo {
