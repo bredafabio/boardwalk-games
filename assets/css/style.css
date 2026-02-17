@@ -92,6 +92,13 @@ h2 {
   margin-bottom: 1.5rem;
 }
 
+/* Events section */
+
+.discount {
+  background-color: var(--highlight-color);
+  color: white;
+}
+
 /* Grid vizualization for test */
 /* .container,
 .row {
